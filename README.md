@@ -1,3 +1,37 @@
-# My_SQL_Learning_Series
+# My SQL Learning Series
 
-A comprehensive collection of SQL practice exercises covering SELECT statements, filtering, sorting, joins, aggregate functions, subqueries, window functions, CTEs, data cleaning, duplicate removal, stored procedures, views, triggers, and more.
+This repository contains my hands-on SQL learning journey, covering fundamental to advanced SQL concepts through practical exercises and real-world examples.
+
+## Topics Covered
+
+- SELECT Statements
+- WHERE Clause
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- JOINS
+- UNION
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- CASE Statements
+- Views
+- Stored Procedures
+- Triggers
+- Data Cleaning
+- Removing Duplicates
+- String Functions
+- Date Functions
+- Temporary Tables
+- Indexing
+- SQL Best Practices
+
+## Tools Used
+
+- MySQL
+- MySQL Workbench
+
+---
+
+This repository documents my continuous SQL learning and practice as part of my Data Analytics journey.
